@@ -28,3 +28,5 @@ app.listen(PORT, () => {
 	connectDB();
 	console.log("Server started at http://localhost:" + PORT);
 });
+
+//here our main express server will be running

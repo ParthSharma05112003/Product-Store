@@ -13,7 +13,7 @@ dist-ssr
 *.local
 
 .env
-
+#all the files will be ignored in the git repository
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
